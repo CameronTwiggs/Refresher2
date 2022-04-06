@@ -1,0 +1,19 @@
+{
+  "name": "refresher2",
+  "version": "1.0.0",
+  "description": "Relearn/Sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CameronTwiggs/Refresher2.git"
+  },
+  "author": "Cameron Twiggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CameronTwiggs/Refresher2/issues"
+  },
+  "homepage": "https://github.com/CameronTwiggs/Refresher2#readme"
+}
