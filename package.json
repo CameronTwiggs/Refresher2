@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CameronTwiggs/Refresher2/issues"
   },
-  "homepage": "https://github.com/CameronTwiggs/Refresher2#readme"
+  "homepage": "https://github.com/CameronTwiggs/Refresher2#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
